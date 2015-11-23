@@ -10,7 +10,7 @@ endtime=`date +%s`
 timetaken=$(($endtime - $starttime))
 
 
-# stolen function to convert seconds to friendly notation
+# stolen function to convert seconds to friendly notation - credit http://stackoverflow.com/a/12199816 choroba
 function show_time () {
     num=$1
     min=0
