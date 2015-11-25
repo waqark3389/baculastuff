@@ -1,0 +1,1 @@
+LabelFormat = "gitlab1FULL-${Year}-${Month:p/2/0/r}-${Day:p/2/0/r}-${Hour:p/2/0/r}${Minute:p/2/0/r}-JOBID${JobId}"
