@@ -2,7 +2,6 @@
 	####
 	#### Assume volume label format is "client-LEVEL" i.e. INC FULL DIFF
 	#### Assume Only file backups i.e. no tape
-	#### Assume retention periods set in below variables
 	#### To test, comment out rm and bconsole commands and uncomment ls line in each if
 	####
 
